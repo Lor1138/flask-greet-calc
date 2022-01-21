@@ -1,4 +1,4 @@
-$Flask Calculator
+Flask Calculator
 ========
 
 $project will solve your problem of where to start with documentation,
@@ -18,7 +18,7 @@ Features
 Installation
 ------------
 
-Install $Flask Calculator requirements by running:
+Install Flask Calculator requirements by running:
 
     pip3 install -r requirements.txt
 
